@@ -1,0 +1,30 @@
+[33mcommit ebfbc44ddf45c860403f505a8441b2c577db576d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: bfcfb04 23cd689
+Author: Anna <user@example.com>
+Date:   Sat Jul 29 10:40:24 2023 +0000
+
+    new mergeMerge branch 'main' of https://github.com/RickSanj/Coursera-Git-GitHub-
+
+[33mcommit 23cd6894f7224653d47ab77de896e518c51bedb3[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Anna Monastyrska <116678653+RickSanj@users.noreply.github.com>
+Date:   Sat Jul 29 13:38:12 2023 +0300
+
+    Create new_file
+
+[33mcommit bfcfb041336c9925e12661be7d55f07bc97b2630[m
+Author: Anna <user@example.com>
+Date:   Sat Jul 29 10:36:59 2023 +0000
+
+    New file added
+
+[33mcommit 01cc6d10a6c5fd85ca15e4ba7ad7d78db9682c83[m
+Author: Anna <annamonastyrska.05@gmail.com>
+Date:   Sat Jul 29 13:19:25 2023 +0300
+
+    New commit
+
+[33mcommit cbba007c38982cff2f27d7c2c452040cc3e738f0[m
+Author: Anna Monastyrska <116678653+RickSanj@users.noreply.github.com>
+Date:   Sat Jul 29 12:51:47 2023 +0300
+
+    Initial commit
